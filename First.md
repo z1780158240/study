@@ -1,6 +1,8 @@
  <center>
      <h1>个人简历</h1>
  </center>
+ 
+ ![](./R-C.jpg)
 
 ## 个人信息
 - 姓名：ZDY
